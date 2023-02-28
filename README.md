@@ -31,25 +31,24 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+le site ne comporte pas de Alt. 
+[capture-écran](images/images/captureSail.png)
+
+----
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+Chaque image comporte un Atl avec une description de celle-ci.
+[capture-écran](images/images/captureAmazon.png)
+
+----
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+Le site contient des Atl avec la descritpion de l'image. 
+[capture-écran](images/images/captureSoleil.png)
+
+----
+
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+Le site ne contient pas de Alt.
+[capture-écran](images/images/captureRad.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
