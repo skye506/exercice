@@ -81,9 +81,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+je crois que le sous-titre devrait etre un peu plus grand car il est de la même grandeur que les paragraphes. 
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -91,9 +89,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+Je crois que les sous-titre qui devrait être des H2 devrait être plus grand, le texte en dessou de l'image et presque la même grandeur et c'est un P.
 
 
 #### 3.2 S'exercer à bien structurer
@@ -102,7 +98,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/3-table-des-matieres_h1-h6/3-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
